@@ -116,8 +116,8 @@ export const resume = {
       link: 'https://noteifie.netlify.app',
     },
     {
-      name: 'Link Shortner',
-      link: 'https://53299h.csb.app/',
+      name: 'Basic React Components',
+      link: 'https://basicreactlearnings.netlify.app/',
     },
   ],
   //hireMeHeader example: "I'm <span>open</span> to work!", use span for focusing texts
